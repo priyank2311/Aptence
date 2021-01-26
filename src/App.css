@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+.title {
+  position: absolute;
+  bottom: 280px;
+  color: white;
+  left: 200px;
+  font-size: 20px;
+  font-weight: 900;
+}
+.label {
+  color: antiquewhite !important;
+}
 
 .App-logo {
   height: 40vmin;
